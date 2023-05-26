@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SimpleGymPlan",
-    "slug": "SimpleGymPlan",
+    "name": "SimpleGymRoutine",
+    "slug": "SimpleGymRoutine",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
